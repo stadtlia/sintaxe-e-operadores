@@ -26,7 +26,7 @@ function criaFrase2(num1, num2) {
 		compara20 = 'maior';
 	}
 
-	return `Sua soma é ${soma}, que é ${compara10} do que 10 e ${comparaVinte} do que 20.`;
+	return `Sua soma é ${soma}, que é ${compara10} do que 10 e ${compara20} do que 20.`;
 }
 
 console.log(comparacao(15, 3));
